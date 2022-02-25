@@ -49,5 +49,3 @@ A **random forest regressor** model achieved the best results. The feature selec
 The poorer results for the less represented classes were to be expected and acceptable, since they occur only in very small numbers in the entire data set. Weighting or oversampling these groups to degrade the precision of the more frequently occurring classes. This can lead to models on future data preferring the prediction of the less frequent classes and thus the class distribution of the prediction and that of the real values differ.
 In principle, this data set must be treated critically, since the subjective classification by wine experts is not a scientifically based classification and poorer results of models could also be attributed to an inconsistency of this classification.
 
-
-Translated with www.DeepL.com/Translator (free version)
