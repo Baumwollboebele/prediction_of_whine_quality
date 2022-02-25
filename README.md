@@ -1,8 +1,10 @@
 # Prediction of Wine Quality
 
-[Summary](#summary)
-[Dataset](#dataset)
-[Results](#results)
+
+## Table of Contents
+1. [Summary](#summary)
+2. [Dataset](#dataset)
+3. [Results](#results)
 
 **Note: The actual work is written in german, though it can be read in english since the majority of the work consists of python code and statistical analysis.**
 
