@@ -8,6 +8,9 @@
 
 **Note: The actual work is written in german, though it can be read in english since the majority of the work consists of python code and statistical analysis.**
 
+
+![](images/Vinho-Verde-Route-Portugal.jpg)
+
 ## Summary
 
 The Jupyter Notebook in this repository is dedicated to predicting wine quality of Vinho Verde.
